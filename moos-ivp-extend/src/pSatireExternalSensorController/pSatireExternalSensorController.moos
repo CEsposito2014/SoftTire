@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pSatireExternalSensorController config block
+
+ProcessConfig = pSatireExternalSensorController
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+

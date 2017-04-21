@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pSatireInternalSensorController config block
+
+ProcessConfig = pSatireInternalSensorController
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+

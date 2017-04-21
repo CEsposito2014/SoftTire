@@ -1,0 +1,16 @@
+//------------------------------------------------
+// pSatireEmergency config block
+
+ProcessConfig = pSatireEmergency
+{
+   AppTick   = 4
+   CommsTick = 4
+   
+   MissionType = "covert"
+   TempLimit = 30
+   HumidLimit = 50
+   HydrogenLimit = 90
+   WaterLimit = 10
+   
+}
+

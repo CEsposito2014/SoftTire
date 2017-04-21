@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pSatireNavController config block
+
+ProcessConfig = pSatireNavController
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+
